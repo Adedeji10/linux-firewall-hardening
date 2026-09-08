@@ -58,4 +58,4 @@ VirtualBox, Ubuntu Server 22.04, UFW, fail2ban, OpenSSH
 
 ---
 
-Part of a self-directed roadmap to build hands-on networking and cybersecurity skills. Read the full write-up: [Medium article link]
+Part of a self-directed roadmap to build hands-on networking and cybersecurity skills. Read the full write-up: https://medium.com/@shittuadedeji10/hardening-a-linux-server-ssh-ufw-and-fail2ban-and-the-two-bugs-that-taught-me-the-most-697b3e47b2ed
